@@ -1,0 +1,22 @@
+* {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.home {
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.homeservice {
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 1rem;
+}
+

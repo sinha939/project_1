@@ -1,0 +1,49 @@
+.card {
+    min-width: 350px;
+    max-width: 22rem;
+    height: fit-content;
+    display: inline-block;
+    justify-content: space-between;
+    align-items: start;
+    box-sizing: border-box;
+    padding: 1rem;
+    /* margin: 1rem; */
+    border-radius: 1rem;
+    /* box-shadow: inset 0rem 0rem 0.5rem grey; */
+    font-variant: all-petite-caps;
+
+}
+
+img {
+    border-radius: 1rem;
+}
+
+.card>h1,
+p,
+img {
+    width: 100%;
+}
+
+.button {
+    justify-content: center;
+    display: flex;
+    gap: 5rem;
+}
+
+.button>button {
+    width: 7rem;
+    height: fit-content;
+    box-sizing: border-box;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+
+#service {
+    color: white;
+    background-color:black;
+    
+}
+
+a {
+    text-decoration: none;
+}

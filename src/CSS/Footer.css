@@ -1,0 +1,29 @@
+.footer {
+    padding: 1rem;
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    background: rgb(179, 171, 171);
+    height: 15rem;
+    color: white;
+    
+    
+}
+
+.domastic-service {
+    box-sizing: border-box;
+    padding: 1rem;
+
+}
+
+.vehicle-service {
+    box-sizing: border-box;
+    padding: 1rem;
+
+}
+
+.commercial-service {
+    box-sizing: border-box;
+    padding: 1rem;
+
+}
